@@ -64,12 +64,6 @@ Motivated software engineering student with experience in web development and di
 - Optimized designs using Photoshop, XD, HTML, CSS, and JavaScript
 - Earned certification as CSS and HTML developer from W3 Schools
 
-## Service and Work History
-
-`2011-2013`
-
-**Service Missionary**, Brazil
-
 ## Skills
 
 - Microsoft Office Suite
