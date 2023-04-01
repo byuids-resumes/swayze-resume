@@ -33,7 +33,7 @@ Motivated software engineering student with experience in web development and di
 
 ### Teaching Assistant
 
-### - Electrical Engineering
+### - Computer Systems
 
 `September 2022 - Present`
 
