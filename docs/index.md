@@ -77,7 +77,7 @@ Motivated software engineering student with experience in web development and di
 - Pair Programming
 - Problem-Solving
 
-'<a href="docs\_layouts\resume.html">.</a>'
+<a href="docs\_layouts\resume.html">.</a>
 
 <!-- ### Footer
 
