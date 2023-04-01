@@ -5,17 +5,15 @@ title: Andrew Swayze's Resume
 
 # Andrew Swayze
 
-_Summary of Qualifications_
-
 <div id="webaddress">
-<a href="aswayze@byui.edu">aswayze@byui.edu</a>
+<a href="mailto:aswayze@byui.edu">aswayze@byui.edu</a>
 | <a href="https://www.linkedin.com/in/andrewswayze/">LinkedIn</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
 ## Summary
 
-Motivated software engineering student with experience in web development and digital marketing. Strong problem-solving and analytical skills, ability to implement test plans, and experience in code reviews. Experience in teaching and front-end web development, with a track record of increasing lead generation and conversion rates. Strong collaborator with a passion for using technical skills to contribute to innovative product creation and refinement.
+Motivated software engineering student with experience in web development and digital marketing. Strong problem-solving and analytical skills, ability to implement test plans, and experience in code reviews. Experienced in teaching and front-end web development, with a track record of increasing lead generation and conversion rates. Strong collaborator with a passion for using technical skills to contribute to innovative product creation and refinement.
 
 ## Education
 
@@ -42,7 +40,7 @@ Motivated software engineering student with experience in web development and di
 
 - Devised and implemented new course curriculum and compared results for 3 different sections of class
 - Provided support in teaching and leading lab sessions as well as helping 50+ students with course material during office hours
-- Graded course reflections, homework, and lab results and provided feedback to students at least twice a week
+- Graded course reflections, homework, and lab results, and provided feedback to students at least twice a week
 
 ### Digital Marketing Developer
 
@@ -82,7 +80,7 @@ Motivated software engineering student with experience in web development and di
 - Python, Django, HTML, CSS, C++, JavaScript
 - Agile Development
 - Pair Programming
-- Problem Solving
+- Problem-Solving
 
 <!-- ### Footer
 
